@@ -1,6 +1,6 @@
 
 
-# 🌐 Desarrollador Web | Rendimiento y Experiencia 🚀
+# 🌐 Desarrollador Web | Rendimiento y Usabilidad 🚀
 
 **¡Hola! 👋 Bienvenido a mi perfil de GitHub.**
 
