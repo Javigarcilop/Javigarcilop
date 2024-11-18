@@ -1,7 +1,6 @@
 
 
+# 👨‍💻 Desarrollador Web | Soluciones digitales y rendimiento eficiente
 
-# Hello!! , I welcome you to my Github profile.
-
-## Here you can find all the code that I have been learning and the projects that I am currently developing.
+Soy un desarrollador Full Stack enfocado en crear aplicaciones escalables y optimizadas. Experiencia en frontend (HTML, CSS, JavaScript, React) y backend (Node.js, bases de datos SQL/NoSQL). Siempre buscando implementar buenas prácticas y mejorar la experiencia del usuario.
 
