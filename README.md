@@ -1,6 +1,7 @@
 
 
-# 👨‍💻 Desarrollador Web | Soluciones digitales y rendimiento eficiente
+# 🌐 Desarrollador Web | Enfocado en rendimiento y experiencia
 
-Soy un desarrollador web enfocado en crear aplicaciones escalables y optimizadas. Experiencia en frontend (HTML, CSS, JavaScript, React) y backend (Node.js, bases de datos SQL/NoSQL). Siempre buscando implementar buenas prácticas y mejorar la experiencia del usuario.
+Desarrollador web comprometido con la creación de sitios y aplicaciones eficientes, escalables y centradas en el usuario. Apasionado por optimizar procesos y garantizar una experiencia fluida en cada proyecto.
+
 
