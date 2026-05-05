@@ -1,20 +1,35 @@
+# 👨‍💻 Javigarcilop | Backend Developer
 
+Backend Developer especializado en PHP (OOP), MySQL y desarrollo de APIs REST.
 
-# 🌐 Javigarcilop |  Backend Developer 
+Actualmente trabajo en entorno de producción desarrollando lógica de negocio, gestión de datos y sistemas backend orientados a procesos reales.
 
-**¡Hola! 👋 Bienvenido a mi perfil de GitHub.**
+## 🧠 Sobre mí
 
-Soy un desarrollador web enfocado en construir **sitios y aplicaciones eficientes** que ofrezcan una **experiencia de usuario fluida** y **escalabilidad**. Me apasiona optimizar cada detalle para lograr un rendimiento impecable y superar las expectativas en cada proyecto.
+Me enfoco en construir backend robusto, mantener la integridad de los datos y optimizar el rendimiento de las aplicaciones.
 
----
+Trabajo con arquitectura MVC y separación de responsabilidades, diseñando sistemas mantenibles y escalables.
 
-💡 **Siempre aprendiendo:** Me motiva estar al día con las últimas tendencias y prácticas del desarrollo web.  
-🔍 **Enfocado en la calidad:** Desde el diseño hasta la implementación, me aseguro de cuidar cada aspecto del proyecto.  
-🤝 **Colaboración:** Disfruto trabajar en equipo y compartir conocimientos para alcanzar los mejores resultados.
+## ⚙️ Stack principal
 
----
+- PHP (OOP)
+- MySQL
+- CodeIgniter
+- REST APIs
+- SQL Performance Optimization
+- Git & GitHub
 
-✨ ¡Hablemos y creemos algo increíble juntos!
+## 🚀 Qué estoy mejorando ahora
 
+- Arquitectura backend (Service Layer)
+- Autenticación con JWT
+- Optimización de consultas SQL
 
+## 📂 Proyectos destacados
 
+- 🔹 Plataforma de email marketing (TemplMail)
+- 🔹 API REST en PHP estructurada por capas
+
+## 🤝 Contacto
+
+Siempre abierto a colaborar o conectar con otros desarrolladores.
