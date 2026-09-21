@@ -1,6 +1,6 @@
 # 👨‍💻 Javigarcilop | Backend Developer
 
-Backend Developer especializado en PHP (OOP), MySQL y desarrollo de APIs REST.
+Full Stcak & IA Developer.
 
 Actualmente trabajo en entorno de producción desarrollando lógica de negocio, gestión de datos y sistemas backend orientados a procesos reales.
 
