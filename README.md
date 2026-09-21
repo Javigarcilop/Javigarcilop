@@ -50,7 +50,7 @@ ChatGPT · GPTs personalizados · Claude Code · IA aplicada al desarrollo · Au
 
 ### En formación
 
-Java · Spring Boot · Laravel · Docker · Arquitectura de software · Product Engineering · Inteligencia Artificial
+Arquitectura de software · Product Engineering · Inteligencia Artificial
 
 ---
 
