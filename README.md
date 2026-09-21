@@ -1,4 +1,4 @@
-# 👨‍💻 Javigarcilop | Backend Developer
+# 👨‍💻 Javigarcilop | Full Stack & IA
 
 Full Stcak & IA Developer.
 
