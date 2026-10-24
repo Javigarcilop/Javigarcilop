@@ -1,6 +1,6 @@
 # 👨‍💻 Francisco Javier García López
 
-### Full Stack Developer · Backend · Automation & AI
+### Full Stack Developer IA · Backend · Automation & AI
 
 Desarrollador web Full Stack con orientación hacia backend y experiencia profesional desarrollando y evolucionando aplicaciones web en entornos reales de producción.
 
